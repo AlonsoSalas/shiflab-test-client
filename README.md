@@ -23,7 +23,7 @@ This React application provides a user interface for managing courses, students,
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AlonsoSalas/shiflab-test-client.git
    ```
 2. Install dependencies:
    ```bash
